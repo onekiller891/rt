@@ -1,0 +1,17 @@
+{
+  "name": "rt",
+  "version": "1.0.0",
+  "description": "**URL Live:** [https://russellthompson.pages.dev](https://russellthompson.pages.dev) - This is the current live site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "htmlhint index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "htmlhint": "^1.4.0"
+  }
+}
