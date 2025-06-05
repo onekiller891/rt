@@ -58,7 +58,7 @@ This is a static website and can be hosted on any platform that serves static fi
 
 1.  **Clone the repository (optional, if you want to work locally):**
     ```bash
-    git clone [https://github.com/onekiller891/rt.git](https://github.com/onekiller891/rt.git)
+    git clone https://github.com/onekiller891/rt.git
     cd rt
     ```
 2.  **View Locally:**
