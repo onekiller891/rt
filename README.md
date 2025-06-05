@@ -71,6 +71,10 @@ This is a static website and can be hosted on any platform that serves static fi
 
 No build process is required for the current version of the site.
 
+## Development
+
+Run `npm install` to install development dependencies. Use `npm run lint` to check `index.html` locally. Every pull request automatically runs HTML validation via GitHub Actions and will fail if issues are found.
+
 ## How to Use / View
 
 Simply navigate to the live URL: [https://russellthompson.pages.dev](https://russellthompson.pages.dev).
